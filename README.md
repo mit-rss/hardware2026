@@ -23,6 +23,8 @@ chmod +x install.sh
 ./install.sh
 ```
 
+* Also move the lxde-rc.xml into $HOME
+
 
 ### 1. Vesc Configuration
 
